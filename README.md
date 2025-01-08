@@ -17,3 +17,6 @@
 
 ## footer 구성
 - footer.md 추가
+
+## Search 구성
+- search.md 추가
