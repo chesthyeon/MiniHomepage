@@ -1,0 +1,23 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># 방현의 미니 홈페이지\r\n\r\n## 스타일 구성\r\n- style.md 추가\r\n\r\n## 내비게이션 추가\r\n- navigation.md 추가
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 83681ddfd9ba290b46e3157025b2b2eab355b19d)
++++ b/README.md	(date 1736296757746)
+@@ -1,7 +1,7 @@
+-# 방현의 미니 홈페이지
++# 가희의 미니 홈페이지
+ 
+ ## 스타일 구성
+ - style.md 추가
+ 
+-## 내비게이션 추가
+-- navigation.md 추가
+\ No newline at end of file
++## 서비스 소개 페이지 추가
++- about.md 추가
+\ No newline at end of file
