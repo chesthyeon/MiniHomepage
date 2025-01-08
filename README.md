@@ -14,3 +14,6 @@
 
 ## 장바구니 구성
 - cart.md 추가
+
+## footer 구성
+- footer.md 추가
